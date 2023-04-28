@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Baroque AI: Publication Prototype",
     "section": "",
-    "text": "Author:\nORCID:\nDate:\nDOI:\nRepository URL:"
+    "text": "Title:\nAuthor: Mohammad Darkhabani\nORCID: https://orcid.org/0009-0001-0033-6060\nDate: 28.04.2023\nDOI: 10.5281/zenodo.7874714\nRepository URL: https://orcid.org/0009-0001-0033-6060"
   },
   {
     "objectID": "index.html#based-on-baroque-ai-publication-prototype",
@@ -25,21 +25,35 @@
     "href": "colophon.html",
     "title": "Colophon",
     "section": "",
-    "text": "Fork title:\nAuthor:\nORCID:\nDate:\nDOI:\nRepositor:\nPUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHIGN AND LINKEDOPEN DATA\nOpen Science Lab - TIB Hannnover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161"
+    "text": "Fork title: Mohammad19921991/catalogue-003\nAuthor: Mohammad Darkhabani\nORCID: https://orcid.org/0009-0001-0033-6060\nDate: 28.04.2023\nDOI: 10.5281/zenodo.7874714\nRepositor: https://github.com/Mohammad19921991/catalogue-003\nPUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHIGN AND LINKEDOPEN DATA\nOpen Science Lab - TIB Hannnover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161"
   },
   {
-    "objectID": "collection003.html#history",
-    "href": "collection003.html#history",
-    "title": "Baroque painting",
-    "section": "History",
-    "text": "History\nNativity by Josefa de Óbidos, 1669, National Museum of Ancient Art, Lisbon The Council of Trent (1545–63), in which the Roman Catholic Church answered many questions of internal reform raised by both Protestants and by those who had remained inside the Catholic Church, addressed the representational arts in a short and somewhat oblique passage in its decrees. This was subsequently interpreted and expounded by a number of clerical authors like Molanus, who demanded that paintings and sculptures in church contexts should depict their subjects clearly and powerfully, and with decorum, without the stylistic airs of Mannerism. This return toward a populist conception of the function of ecclesiastical art is seen by many art historians as driving the innovations of Caravaggio and the Carracci brothers, all of whom were working (and competing for commissions) in Rome around 1600, although unlike the Carracci, Caravaggio persistently was criticised for lack of decorum in his work. However, although religious painting, history painting, allegories, and portraits were still considered the most noble subjects, landscape, still life, and genre scenes were also becoming more common in Catholic countries, and were the main genres in Protestant ones.\nThe term “Baroque” was initially used with a derogatory meaning, to underline the excesses of its emphasis. Others derive it from the mnemonic term “Baroco” denoting, in logical Scholastica, a supposedly laboured form of syllogism.[10] In particular, the term was used to describe its eccentric redundancy and noisy abundance of details, which sharply contrasted the clear and sober rationality of the Renaissance. It was first rehabilitated by the Swiss-born art historian, Heinrich Wölfflin (1864–1945) in his Renaissance und Barock (1888); Wölfflin identified the Baroque as “movement imported into mass”, an art antithetic to Renaissance art. He did not make the distinctions between Mannerism and Baroque that modern writers do, and he ignored the later phase, the academic Baroque that lasted into the 18th century. Writers in French and English did not begin to treat Baroque as a respectable study until Wölfflin’s influence had made German scholarship pre-eminent.\n\nNational variations\nLed by Italy, Mediterranean countries, slowly followed by most of the Holy Roman Empire in Germany and Central Europe, generally adopted a full-blooded Baroque approach.\nA rather different art developed out of northern realist traditions in 17th century Dutch Golden Age painting, which had very little religious art, and little history painting, instead playing a crucial part in developing secular genres such as still life, genre paintings of everyday scenes, and landscape painting. While the Baroque nature of Rembrandt’s art is clear, the label is less used for Vermeer and many other Dutch artists. Most Dutch art lacks the idealization and love of splendour typical of much Baroque work, including the neighbouring Flemish Baroque painting which shared a part in Dutch trends, while also continuing to produce the traditional categories in a more clearly Baroque style.\nIn France a dignified and graceful classicism gave a distinctive flavour to Baroque painting, where the later 17th century is also regarded as a golden age for painting. Two of the most important artists, Nicolas Poussin and Claude Lorrain, remained based in Rome, where their work, almost all in easel paintings, was much appreciated by Italian as well as French patrons."
+    "objectID": "collection003.html",
+    "href": "collection003.html",
+    "title": "Politisches System der Bundesrepublik Deutschland",
+    "section": "",
+    "text": "Source: https://de.wikipedia.org/wiki/Politisches_System_der_Bundesrepublik_Deutschland\nDas politische System der Bundesrepublik Deutschland umfasst die politischen Institutionen, Entscheidungsprozesse und politischen Inhalte des Landes. Es ist als parlamentarische Demokratie und Bundesstaat organisiert, wobei die Parteien einen bedeutenden Einfluss haben und Deutschland daher auch als Parteiendemokratie bekannt ist. Die Wahlen folgen hauptsächlich dem Prinzip der personalisierten Verhältniswahl und Regierungskoalitionen sind in der Regel notwendig, um eine Regierung zu bilden. Der Bundeskanzler wird vom Deutschen Bundestag gewählt und ist für die Festlegung der Richtlinien der Innen- und Außenpolitik auf Bundesebene sowie die Nominierung von Bundesministern verantwortlich (Richtlinienkompetenz). Das Grundgesetz regelt die Institutionen des Bundes und die Aufgabenverteilung zwischen Bund und Ländern, während das Bundesverfassungsgericht die Einhaltung des Grundgesetzes überwacht. Die Bundesländer haben eine eigene Vertretung im Bundesrat, der neben dem Bundestag an der Gesetzgebung beteiligt ist. Deutschland ist Mitglied der Europäischen Union und hat einige seiner Hoheitsrechte an diesen Staatenverbund übertragen."
   },
   {
     "objectID": "paintings.html",
     "href": "paintings.html",
     "title": "Activity: Paintings catalogue in Jupyter Notebook",
     "section": "",
-    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nThe below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.\nWikidata link: http://www.wikidata.org/entity/Q19930126\nTitle: Battle Painting\nYear: 1650\nCreator: Johann Heinrich Schönfeld\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q19930364\nTitle: Rocky Landscape with Antique Ruins\nYear: 1657\nCreator: Nicolaes Pieterszoon Berchem\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q19930472\nTitle: Riding School Before Ancient Ruins\nYear: 1750\nCreator: Pieter van Bloemen\nCopyright: public domain"
+    "text": "Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.\nThe below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.\nWikidata link: http://www.wikidata.org/entity/Q605863\n\nWikidata link: http://www.wikidata.org/entity/Q607598\n\nWikidata link: http://www.wikidata.org/entity/Q607761\n\nWikidata link: http://www.wikidata.org/entity/Q609572\n\nWikidata link: http://www.wikidata.org/entity/Q472037"
+  },
+  {
+    "objectID": "video.html#video-embedding",
+    "href": "video.html#video-embedding",
+    "title": "Activity: Embedded video in Jupyter Notebook",
+    "section": "Video embedding",
+    "text": "Video embedding\nThe below Python code experiments with retrieving video data via iframe embedding."
+  },
+  {
+    "objectID": "video.html#d-model-embedding",
+    "href": "video.html#d-model-embedding",
+    "title": "Activity: Embedded video in Jupyter Notebook",
+    "section": "3D model embedding",
+    "text": "3D model embedding\nThe below Python code experiments with retrieving 3D data via iframe embedding."
   },
   {
     "objectID": "sw-collection.html",
