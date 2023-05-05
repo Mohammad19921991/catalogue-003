@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Baroque AI: Publication Prototype - Activity: Paintings catalogue in Jupyter Notebook</title>
+<title>High Museum of Art - Activity: Paintings catalogue</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,7 +30,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
-<link href="./video.html" rel="next">
 <link href="./collection003.html" rel="prev">
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
@@ -74,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./paintings.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Activity: Paintings catalogue in Jupyter Notebook</span></a></li></ol></nav>
+      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="./paintings.html"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Activity: Paintings catalogue</span></a></li></ol></nav>
       <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
       </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -89,10 +88,32 @@ ul.task-list li input[type="checkbox"] {
   <nav id="quarto-sidebar" class="sidebar collapse collapse-horizontal sidebar-navigation floating overflow-auto">
     <div class="pt-lg-2 mt-2 text-left sidebar-header">
     <div class="sidebar-title mb-0 py-0">
-      <a href="./">Baroque AI: Publication Prototype</a> 
+      <a href="./">High Museum of Art</a> 
         <div class="sidebar-tools-main">
     <a href="https://github.com/Mohammad19921991/catalogue-003" title="Source Code" class="quarto-navigation-tool px-1" aria-label="Source Code"><i class="bi bi-github"></i></a>
-    <a href="./Baroque-AI--Publication-Prototype.pdf" title="Download PDF" class="quarto-navigation-tool px-1" aria-label="Download PDF"><i class="bi bi-file-pdf"></i></a>
+    <div class="dropdown">
+      <a href="" title="Download" id="quarto-navigation-tool-dropdown-0" class="quarto-navigation-tool dropdown-toggle px-1" data-bs-toggle="dropdown" aria-expanded="false" aria-label="Download"><i class="bi bi-download"></i></a>
+      <ul class="dropdown-menu" aria-labelledby="quarto-navigation-tool-dropdown-0">
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./High-Museum-of-Art.pdf">
+              <i class="bi bi-bi-file-pdf pe-1"></i>
+            Download PDF
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./High-Museum-of-Art.docx">
+              <i class="bi bi-bi-file-word pe-1"></i>
+            Download Docx
+            </a>
+          </li>
+          <li>
+            <a class="dropdown-item sidebar-tools-main-item" href="./High-Museum-of-Art.epub">
+              <i class="bi bi-bi-journal pe-1"></i>
+            Download ePub
+            </a>
+          </li>
+      </ul>
+    </div>
 </div>
     </div>
       </div>
@@ -115,22 +136,12 @@ ul.task-list li input[type="checkbox"] {
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./collection003.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Politisches System der Bundesrepublik Deutschland</span></a>
+  <a href="./collection003.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">High Museum of Art</span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="./paintings.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Activity: Paintings catalogue in Jupyter Notebook</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./video.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Activity: Embedded video in Jupyter Notebook</span></a>
-  </div>
-</li>
-        <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="./sw-collection.html" class="sidebar-item-text sidebar-link"><span class="chapter-title">Custom Collection - SW</span></a>
+  <a href="./paintings.html" class="sidebar-item-text sidebar-link active"><span class="chapter-title">Activity: Paintings catalogue</span></a>
   </div>
 </li>
     </ul>
@@ -146,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title"><span class="chapter-title">Activity: Paintings catalogue in Jupyter Notebook</span></h1>
+<h1 class="title"><span class="chapter-title">Activity: Paintings catalogue</span></h1>
 </div>
 
 
@@ -161,18 +172,60 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Objective: Make a selection of nine paintings for the exhibition catalogue to be selected from Wikidata and rendered multi-format in Quarto.</p>
-<p>The below Python code uses SPARQLWrapper to retrieve data from Wikidata based on a SPARQL query.</p>
-<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q605863">http://www.wikidata.org/entity/Q605863</a></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q3842759">http://www.wikidata.org/entity/Q3842759</a></p>
+<p>Title: Madonna enthroned with child with Saints James the Greater and Jerome</p>
+<p>Year: 1517</p>
+<p>Creator: Moretto da Brescia</p>
+<p>Copyright: public domain</p>
 <p><img src="paintings_files/figure-html/cell-2-output-2.png" class="img-fluid"></p>
-<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q607598">http://www.wikidata.org/entity/Q607598</a></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q19900722">http://www.wikidata.org/entity/Q19900722</a></p>
+<p>Title: The Tempest</p>
+<p>Year: 1826</p>
+<p>Creator: Thomas Cole</p>
+<p>Copyright: public domain</p>
 <p><img src="paintings_files/figure-html/cell-2-output-4.png" class="img-fluid"></p>
-<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q607761">http://www.wikidata.org/entity/Q607761</a></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q19912652">http://www.wikidata.org/entity/Q19912652</a></p>
+<p>Title: Twilight</p>
+<p>Year: 1886</p>
+<p>Creator: Martin Johnson Heade</p>
+<p>Copyright: public domain</p>
 <p><img src="paintings_files/figure-html/cell-2-output-6.png" class="img-fluid"></p>
-<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q609572">http://www.wikidata.org/entity/Q609572</a></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q19967290">http://www.wikidata.org/entity/Q19967290</a></p>
+<p>Title: Tuileries Garden</p>
+<p>Year: 1897</p>
+<p>Creator: Childe Hassam</p>
+<p>Copyright: public domain</p>
 <p><img src="paintings_files/figure-html/cell-2-output-8.png" class="img-fluid"></p>
-<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q472037">http://www.wikidata.org/entity/Q472037</a></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q19968178">http://www.wikidata.org/entity/Q19968178</a></p>
+<p>Title: Abandoned in the Arctic Ice Fields</p>
+<p>Year: 1876</p>
+<p>Creator: William Bradford</p>
+<p>Copyright: public domain</p>
 <p><img src="paintings_files/figure-html/cell-2-output-10.png" class="img-fluid"></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q20032033">http://www.wikidata.org/entity/Q20032033</a></p>
+<p>Title: Coast of Labrador</p>
+<p>Year: 1866</p>
+<p>Creator: William Bradford</p>
+<p>Copyright: public domain</p>
+<p><img src="paintings_files/figure-html/cell-2-output-12.png" class="img-fluid"></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q20032045">http://www.wikidata.org/entity/Q20032045</a></p>
+<p>Title: Shipwrecked off Labrador</p>
+<p>Year: 1867</p>
+<p>Creator: William Bradford</p>
+<p>Copyright: public domain</p>
+<p><img src="paintings_files/figure-html/cell-2-output-14.png" class="img-fluid"></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q20054586">http://www.wikidata.org/entity/Q20054586</a></p>
+<p>Title: A Bit of the Roman Aqueduct</p>
+<p>Year: 1852</p>
+<p>Creator: George Inness</p>
+<p>Copyright: public domain</p>
+<p><img src="paintings_files/figure-html/cell-2-output-16.png" class="img-fluid"></p>
+<p>Wikidata link: <a href="http://www.wikidata.org/entity/Q20054664">http://www.wikidata.org/entity/Q20054664</a></p>
+<p>Title: Clearing Up</p>
+<p>Year: 1875</p>
+<p>Creator: George Inness</p>
+<p>Copyright: public domain</p>
+<p><img src="paintings_files/figure-html/cell-2-output-18.png" class="img-fluid"></p>
 
 
 
@@ -413,13 +466,10 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
       <a href="./collection003.html" class="pagination-link">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">Politisches System der Bundesrepublik Deutschland</span></span>
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-title">High Museum of Art</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="./video.html" class="pagination-link">
-        <span class="nav-page-text"><span class="chapter-title">Activity: Embedded video in Jupyter Notebook</span></span> <i class="bi bi-arrow-right-short"></i>
-      </a>
   </div>
 </nav>
 </div> <!-- /content -->
