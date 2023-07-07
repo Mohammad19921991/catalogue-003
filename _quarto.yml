@@ -5,7 +5,7 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jen"
+  title: "Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jen."
   author: "Mohammad Darkhbani"
   date: "2023-07-06"
   # this section determines which files will be added to the book as chapters

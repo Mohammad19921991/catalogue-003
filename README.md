@@ -1,11 +1,11 @@
-# High Museum of Art
+# Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jen
 
 
 Author: Mohammad Darkahbani
 
 ORCID: https://orcid.org/0009-0001-0033-6060
 
-Date: 28.04.2023
+Date: 06.07.2023
 
 DOI: 10.5281/zenodo.7874714
 

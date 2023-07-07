@@ -1,6 +1,6 @@
 # Data Visualization
 
-Visualization
+Visualization.
 
 
 Here an image of my data viz :
