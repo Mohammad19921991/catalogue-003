@@ -1,11 +1,6 @@
-# High Museum of Art
+# Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jena
 
-Source: https://en.wikipedia.org/wiki/High_Museum_of_Art
+Source: https://creating-new-dimensions.org/Gothaer-Kunstkammer/
 
 
-The High Museum of Art (colloquially the High) is the largest museum for visual art in the Southeastern United States. 
-Located in Atlanta, Georgia (on Peachtree Street in Midtown, the city's arts district), the High is 312,000 square feet (28,985 m2) and a division of the Woodruff Arts Center.
-
-The High organizes and presents exhibitions of international and national significance alongside its comprehensive collection of more than 18,000 works of art, and is especially known for its 19th- and 20th-century American decorative arts, folk and self-taught art, modern and contemporary art, and photography.[3] A cultural nexus of Atlanta since 1905, it hosts festivals, live performances, public conversations, independent art films, and educational programs year-round.[4] It also features dedicated spaces for children of all ages and their caregivers, an on-site restaurant, and a museum store.[5]
-
-In 2010, it had 509,000 visitors, 95th among world art museums.
+In der Stiftung Schloss Friedenstein in Gotha trifft Barock auf Hightech: Vor zwei Jahren startete mit „Gotha transdigital 2027“ das größte museale Digitalisierungsprojekt Deutschlands. In Kooperation mit der Thüringer Universitäts- und Landesbibliothek wird diese bedeutende Sammlung digitalisiert und erschlossen. Ein zentrales Element der Sammlung ist die Kunst- und Wunderkammer. Für den Hackathon stellen die Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek siebenundzwanzig 3D-Digitalisate der Kunstkammer zur Verfügung und hoffen auf neue, kreative Wege des Entdeckens und Gestaltens dieser besonderen Sammlungsschätze.

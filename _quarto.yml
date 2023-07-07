@@ -5,13 +5,14 @@ project:
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
-  title: "High Museum of Art"
+  title: "Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jen"
   author: "Mohammad Darkhbani"
-  date: "2023-04-14"
+  date: "2023-07-06"
   # this section determines which files will be added to the book as chapters
   chapters:
     - index.qmd
     - colophon.ipynb
+    - collection.qmd
     - collection003.qmd
     - paintings.ipynb
    # - video.ipynb
@@ -20,7 +21,7 @@ book:
   repo-url: https://github.com/Mohammad19921991/catalogue-003
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
-  cover-image: cover.jpg
+  cover-image: cover.png
 
 # Quarto allows commenting using either Hypothesis or Utterances
 # https://quarto.org/docs/reference/projects/books.html#comments

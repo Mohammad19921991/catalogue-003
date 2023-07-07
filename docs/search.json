@@ -2,21 +2,21 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "High Museum of Art",
+    "title": "Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jen",
     "section": "",
     "text": "Title:\nAuthor: Mohammad Darkhabani\nORCID: https://orcid.org/0009-0001-0033-6060\nDate: 28.04.2023\nDOI: 10.5281/zenodo.7874714\nRepository URL: https://orcid.org/0009-0001-0033-6060"
   },
   {
     "objectID": "index.html#based-on-baroque-ai-publication-prototype",
     "href": "index.html#based-on-baroque-ai-publication-prototype",
-    "title": "High Museum of Art",
+    "title": "Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jen",
     "section": "Based on Baroque AI: Publication Prototype",
     "text": "Based on Baroque AI: Publication Prototype"
   },
   {
     "objectID": "index.html#part-of-the-series-baroque-toc",
     "href": "index.html#part-of-the-series-baroque-toc",
-    "title": "High Museum of Art",
+    "title": "Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jen",
     "section": "Part of the series: Baroque TOC",
     "text": "Part of the series: Baroque TOC\nProgramme instructions\n2023-03-17\n This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.\nBook cover: Reworking of Baroque pearl with enamelled gold mounts set with rubies. Creative Commons CC0 1.0 Universal Public Domain Dedication. This file was donated to Wikimedia Commons as part of a project by the Metropolitan Museum of Art.\n\nThis work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
   },
@@ -28,17 +28,24 @@
     "text": "Fork title: Mohammad19921991/catalogue-003\nAuthor: Mohammad Darkhabani\nORCID: https://orcid.org/0009-0001-0033-6060\nDate: 28.04.2023\nDOI: 10.5281/zenodo.7874714\nRepositor: https://github.com/Mohammad19921991/catalogue-003\nPUBLISHING FROM COLLECTIONS USES OF COMPUTATIONAL PUBLISHIGN AND LINKEDOPEN DATA\nOpen Science Lab - TIB Hannnover\nFirst published 2023-03-30\nCopyright © The Authors 2023 Licensed as https://creativecommons.org/licenses/by-sa/4.0/\nDOI: https://doi.org/10.5281/zenodo.7701161"
   },
   {
+    "objectID": "collection.html",
+    "href": "collection.html",
+    "title": "Data Visualization",
+    "section": "",
+    "text": "Visualization\nHere an image of my data viz : \nHere is an iframe with some data viz:"
+  },
+  {
     "objectID": "collection003.html",
     "href": "collection003.html",
-    "title": "High Museum of Art",
+    "title": "Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek ThULB Jena",
     "section": "",
-    "text": "Source: https://en.wikipedia.org/wiki/High_Museum_of_Art\nThe High Museum of Art (colloquially the High) is the largest museum for visual art in the Southeastern United States. Located in Atlanta, Georgia (on Peachtree Street in Midtown, the city’s arts district), the High is 312,000 square feet (28,985 m2) and a division of the Woodruff Arts Center.\nThe High organizes and presents exhibitions of international and national significance alongside its comprehensive collection of more than 18,000 works of art, and is especially known for its 19th- and 20th-century American decorative arts, folk and self-taught art, modern and contemporary art, and photography.[3] A cultural nexus of Atlanta since 1905, it hosts festivals, live performances, public conversations, independent art films, and educational programs year-round.[4] It also features dedicated spaces for children of all ages and their caregivers, an on-site restaurant, and a museum store.[5]\nIn 2010, it had 509,000 visitors, 95th among world art museums."
+    "text": "Source: https://creating-new-dimensions.org/Gothaer-Kunstkammer/\nIn der Stiftung Schloss Friedenstein in Gotha trifft Barock auf Hightech: Vor zwei Jahren startete mit „Gotha transdigital 2027“ das größte museale Digitalisierungsprojekt Deutschlands. In Kooperation mit der Thüringer Universitäts- und Landesbibliothek wird diese bedeutende Sammlung digitalisiert und erschlossen. Ein zentrales Element der Sammlung ist die Kunst- und Wunderkammer. Für den Hackathon stellen die Stiftung Friedenstein in Gotha und die Thüringer Universitäts- und Landesbibliothek siebenundzwanzig 3D-Digitalisate der Kunstkammer zur Verfügung und hoffen auf neue, kreative Wege des Entdeckens und Gestaltens dieser besonderen Sammlungsschätze."
   },
   {
     "objectID": "paintings.html",
     "href": "paintings.html",
     "title": "Activity: Paintings catalogue",
     "section": "",
-    "text": "Wikidata link: http://www.wikidata.org/entity/Q3842759\nTitle: Madonna enthroned with child with Saints James the Greater and Jerome\nYear: 1517\nCreator: Moretto da Brescia\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q19900722\nTitle: The Tempest\nYear: 1826\nCreator: Thomas Cole\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q19912652\nTitle: Twilight\nYear: 1886\nCreator: Martin Johnson Heade\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q19967290\nTitle: Tuileries Garden\nYear: 1897\nCreator: Childe Hassam\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q19968178\nTitle: Abandoned in the Arctic Ice Fields\nYear: 1876\nCreator: William Bradford\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q20032033\nTitle: Coast of Labrador\nYear: 1866\nCreator: William Bradford\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q20032045\nTitle: Shipwrecked off Labrador\nYear: 1867\nCreator: William Bradford\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q20054586\nTitle: A Bit of the Roman Aqueduct\nYear: 1852\nCreator: George Inness\nCopyright: public domain\n\nWikidata link: http://www.wikidata.org/entity/Q20054664\nTitle: Clearing Up\nYear: 1875\nCreator: George Inness\nCopyright: public domain"
+    "text": "Wikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Russia\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Turkey\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Republic of China\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Netherlands\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Germany\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Sierra Leone\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Germany\nWikidata link: http://www.wikidata.org/entity/Q189177\nTitle: 3D computer graphics\nYear: 1700-01-01T00:00:00Z\nCreator: - Unbekannt\nLocation: Germany"
   }
 ]
